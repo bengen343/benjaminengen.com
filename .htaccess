@@ -1,5 +1,5 @@
-# Force HTTPS and www
+# Force all traffic to https://www.benjaminengen.com
 RewriteEngine On
 RewriteCond %{HTTPS} off [OR]
-RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteCond %{HTTP_HOST} !^www\.benjaminengen\.com$ [NC]
 RewriteRule ^(.*)$ https://www.benjaminengen.com/$1 [L,R=301]
