@@ -1,0 +1,23 @@
+# Benjamin Engen
+
+> Analytics engineer and technical data leader with 15+ years across dbt, Snowflake, Looker and machine learning, from running a data consultancy to staff-level engineering.
+
+Benjamin (Ben) Engen is currently an Analytics Engineer at Thimble, where he owns the data and analytics stack and is leading a re-architecture onto Snowflake, dbt and Omni. Previously he was the first Staff Analytics Engineer at The Zebra, Director of Data Science at Remote Year, an economist at Action Economics (a top-10 Bloomberg-ranked forecaster of U.S. economic indicators), and the founder of Constellation Marketing, Analysis & Research, a data consultancy that served 150+ clients over a decade. He holds an MBA and a BA in Political Science, Economics and Mathematics from the University of Colorado Boulder, and is based across Wyoming, Colorado and Oregon.
+
+## Profile
+
+- [Website](https://www.benjaminengen.com/): Full experience, skills, writing and contact details
+- [Resume (PDF)](https://www.benjaminengen.com/assets/documents/engen-resume.pdf): Current CV
+- [LinkedIn](https://www.linkedin.com/in/benjamin-engen/)
+- [GitHub](https://github.com/bengen343)
+- [Medium](https://medium.com/@bengen)
+
+## Writing
+
+- [Build Your Castles In The Sky](https://medium.com/google-cloud/build-your-castles-in-the-sky-1c2d9e04f8c2): Setting up a remote development environment on Google Cloud Workstations
+- [Deploying Apache Superset on Google Cloud Run](https://medium.com/data-science/deploying-apache-superset-on-google-cloud-run-4e8f9b85a78a): Getting a Superset proof of concept running in minutes
+- [Does Direct Mail Work?](https://medium.com/@bengen/does-political-direct-mail-work-e5494043ce96): A peer-reviewed study on the effectiveness of political direct mail
+
+## Contact
+
+- Email: benjamin.engen@gmail.com
