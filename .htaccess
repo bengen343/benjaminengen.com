@@ -3,3 +3,6 @@ RewriteEngine On
 RewriteCond %{HTTPS} off [OR]
 RewriteCond %{HTTP_HOST} !^www\.benjaminengen\.com$ [NC]
 RewriteRule ^(.*)$ https://www.benjaminengen.com/$1 [L,R=301]
+
+# Hide the git repository from the web
+RedirectMatch 404 /\.git(/|$)
